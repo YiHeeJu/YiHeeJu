@@ -10,4 +10,9 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
 
+<h3 align="center"> 📫 Contact 📫 </h3>
+<p align="center">
+  <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yiheeju0330@gmail.com"/></a>
+</p>
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
