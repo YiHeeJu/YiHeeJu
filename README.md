@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeju's%20Github&fontSize=90" alt="Heeju's Github Banner" class="banner" />
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <div align="center">
 <h2>📚skills📚</h2>
 </div>
