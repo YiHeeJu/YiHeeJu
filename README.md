@@ -1,15 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Heeju's%20Github&fontSize=90" alt="Heeju's Github Banner" class="banner" />
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Heeju's%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
+</p>
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20heeju.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
+</p>
 
 
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu&hide_progress=true)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=djs100201)
+
+
+<!-- GIT Design :
+    https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
+    https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
+    https://github.com/kyechan99/capsule-render/blob/master/README.md
+    https://simpleicons.org/
+    https://github.com/mazassumnida/mazandi
+    -->
+
+<!--Theme data :
+    https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<div align="center">
+<h2>Statistics</h2>
+</div>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YiHeeJu&theme=aura_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu&theme=rose"/>
+</p>
+
+<div align="center">
+<h2>GitHub Stats</h2>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/forks/YiHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/stars/YiHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/watchers/YiHeeJu/YiHeeJu/v1.0.0.svg"/>
+  <img src="https://img.shields.io/github/followers/YiHeeJu.svg?style=social&label=Follow&maxAge=2592000"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/license/YiHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/release/YiHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/commits-since/YiHeeJu/YiHeeJu/v1.0.0.svg"/>
+  <img src="https://img.shields.io/github/downloads/YiHeeJu/YiHeeJu/total.svg"/>
+</p>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/issues/iHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/issues-closed/YiHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/issues-pr/YiHeeJu/YiHeeJu.svg"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/YiHeeJu/YiHeeJu.svg"/>
+
 
 
 <div align="center">
 <h2>📫 Contact 📫</h2>
 </div>
-
 <p align="center">
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yiheeju0330@gmail.com"/></a>
 </p>
@@ -21,7 +70,6 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </p>
 
@@ -70,6 +118,16 @@
 <p align="center">
   <img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
 </p>
+
+
+<div align="center">
+<h2>📫 Feedback 📫</h2>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+</p>
+
+
 
 
 ---
