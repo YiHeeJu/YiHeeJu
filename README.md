@@ -14,9 +14,6 @@
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yiheeju0330@gmail.com"/></a>
 </p>
 
-<div align="center">
-<h2>📚skills📚</h2>
-</div>
 <h3 align="center"> 📚 skills 📚 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -37,14 +34,12 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
 
-
 <h3 align="center"> 💻 OS 💻 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=yiheeju0330@gmail.com"/></a>&nbsp
   <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white&link=yiheeju0330@gmail.com"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=yiheeju0330@gmail.com"/></a>&nbsp
 </p>
-
 
 <h3 align="center"> 🖍 Design 🖍 </h3>
 <p align="center">
@@ -54,7 +49,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
 <h3 align="center"> 🤜 Group 🤛 </h3>
 <p align="center">
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=yiheeju0330@gmail.com"/></a>
@@ -62,7 +56,6 @@
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge&link=yiheeju0330@gmail.com"/></a>
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&link=yiheeju0330@gmail.com"/></a>
 </p>
-
 
 <h3 align="center"> 🧜‍♀️ Social 🧜‍♀️ </h3>
 <p align="center">
@@ -73,7 +66,7 @@
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=yiheeju0330@gmail.com"/></a>
 </p>
 
-<h3 align="center"> </h3>
+<h3 align="center"> ❤️ etc ❤️ </h3>
 <p align="center">
   <img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white'>
 </p>
