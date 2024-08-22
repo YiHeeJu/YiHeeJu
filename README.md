@@ -18,7 +18,7 @@
 </p>
 
 
-<h4 align="center"> 💻 OS 💻 </h4>
+<h3 align="center"> 💻 OS 💻 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=yiheeju0330@gmail.com"/></a>&nbsp
   <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white&link=yiheeju0330@gmail.com"/></a>&nbsp
