@@ -17,6 +17,17 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 </p>
 
+
+<div align="center">
+<h2>💻 OS 💻</h2>
+</div>
+<p align="center">
+  <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=yiheeju0330@gmail.com"/></a>
+  <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white&link=yiheeju0330@gmail.com"/></a>
+  <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&link=yiheeju0330@gmail.com"/></a>
+</p>
+
+
 <h3 align="center"> 💻 OS 💻 </h3>
 <p align="center">
   <a href="mailto:yiheeju0330@gmail.com"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&link=yiheeju0330@gmail.com"/></a>
