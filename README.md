@@ -3,7 +3,7 @@
     https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
     https://github.com/kyechan99/capsule-render/blob/master/README.md
     https://simpleicons.org/
-    https://github.com/mazassumnida/mazandi
+    https://github.com/mazassumnida/mazandi 
     -->
 
 <!--Theme data :
