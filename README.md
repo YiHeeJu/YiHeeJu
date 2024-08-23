@@ -1,8 +1,3 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Heeju's%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
-</p>
-
-
 <!-- GIT Design :
     https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
     https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
@@ -13,73 +8,48 @@
 
 <!--Theme data :
     https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Statistics&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
-</p>
-
 <!--
-<div align="center">
-<h2>Statistics</h2>
-</div>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50"/>
 </p>
 -->
 
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HeeJu's%20git&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
+</p>
+
+<h3>Hey! Nice to see you.</h3>
+<p>Welcome to my page! </br> I'm heeju, artificial intelligence developer from Korean. (But I'm a student now. lol) </br> I'm ENFJ! I really love people, but I'm very shy. 🎼 </br> I’m eager to learn and grow by exploring various fields through diverse experiences. </br> I genuinely enjoy trying new things because I find joy and fulfillment in seeing my own progress. </br> It makes me even happier when I can use what I've learned to help others!</p>
+
+
+### Who Am I
+- 🌱 I’m currently learning Algorithm
+- 🥇 I majored in AI BigData
+- 🚅 My hometown is Daegu in Korea
+
+### Experience
+- 🎓 Daegu Catholic University , AI BigData (2021.03 ~ 2025.02)
+- 💧 SEJUNG IS / Intern (2023.01 ~ 2023.02)
+- 🤖 ETRI / Research trainee (2023.07 ~ 2023.08)
+- 🔠 TAKEN SOFT / Intern (2024.07 ~ 2024.08)
+
+### What I Like
+- 🖥️ Everything about computers (AI)
+- 📺 Looking at something
+- 👥 Conversation with people
+- 🔨 Making something
+- 👟 Exercise
+- 🔠 English
+- ❤️ YOU
+
+
+
+## Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YiHeeJu&theme=aura_dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu&theme=rose"/>
   <img src="http://mazandi.herokuapp.com/api?handle=YiHeeJu"/>
 </p>
-
-
-
-<div align="center">
-<h2>GitHub Stats</h2>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/github/forks/YiHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/stars/YiHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/watchers/YiHeeJu/YiHeeJu/v1.0.0.svg"/>
-  <img src="https://img.shields.io/github/followers/YiHeeJu.svg?style=social&label=Follow&maxAge=2592000"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/license/YiHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/release/YiHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/commits-since/YiHeeJu/YiHeeJu/v1.0.0.svg"/>
-  <img src="https://img.shields.io/github/downloads/YiHeeJu/YiHeeJu/total.svg"/>
-</p>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/issues/iHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/issues-closed/YiHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/issues-pr/YiHeeJu/YiHeeJu.svg"/>
-  <img src="https://img.shields.io/github/issues-pr-closed/YiHeeJu/YiHeeJu.svg"/>
 
 
 
@@ -155,8 +125,11 @@
 </p>
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20HeeJu's%20%20Git%20%20Hub&fontAlign=30&fontSize=30&textBg=true&desc=GitHub%20Stats&descAlign=60&descAlignY=50"/>
 </p>
+
+
+
 
 ---
 ![](./profile-3d-contrib/profile-gitblock.svg)
