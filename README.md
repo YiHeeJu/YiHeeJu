@@ -2,15 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Heeju's%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
 </p>
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20heeju.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
-</p>
-
-
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=djs100201)
-
 
 <!-- GIT Design :
     https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
@@ -22,14 +13,50 @@
 
 <!--Theme data :
     https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Statistics&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
+</p>
+
+<!--
 <div align="center">
 <h2>Statistics</h2>
 </div>
 </p>
+-->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YiHeeJu&theme=aura_dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu&theme=rose"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=YiHeeJu"/>
 </p>
+
+
 
 <div align="center">
 <h2>GitHub Stats</h2>
@@ -127,8 +154,9 @@
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </p>
 
-
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50"/>
+</p>
 
 ---
 ![](./profile-3d-contrib/profile-gitblock.svg)
