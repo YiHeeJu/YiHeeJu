@@ -1,3 +1,6 @@
+
+
+
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HeeJu's%20git&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
 </p>
@@ -12,6 +15,7 @@
 - 🌈 Contributes to progress across a wide range of fields.
 - 🥇 I majored in AI BigData
 - 🥅 2024 Goals: Getting 8th NAVER Boost Camp
+- 🔗 You can see all my links here ➡️ [HeeJu's page](https://yiheeju.github.io/My_Linktree/)
 
 <br />
 <br />
