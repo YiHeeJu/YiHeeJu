@@ -11,9 +11,9 @@
 
 <br />
 
+- 🥇 I majored in AI BigData
 - 🌱 I’m currently learning LLM
 - 🌈 Contributes to progress across a wide range of fields.
-- 🥇 I majored in AI BigData
 - 🥅 2024 Goals: Getting 8th NAVER Boost Camp
 - 🔗 You can see all my links here ➡️ [HeeJu's page](https://yiheeju.github.io/My_Linktree/)
 
