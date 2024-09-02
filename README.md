@@ -29,7 +29,6 @@
 This is a link to the campus projects on CV! ➡️ [CV to refer to ...](https://topaz-metacarpal-e99.notion.site/AI-Dev-Portfolio-cacf3706017646d2b39e3147058b729a?pvs=4)
 <!-- START -->
 - [실시간 생활폐기물 인식 시스템 구축 프로젝트](https://github.com/YiHeeJu/Waste_Recognition_System) 🔄(Update in progress)
-- [학업 트레킹시스템 사이트 구축 프로젝트](https://github.com/yourusername/project-repo2) 🔄(Update in progress)
 - [Hand-gesture 기반 Youtube 영상 제어 시스템 구축 프로젝트](https://github.com/yourusername/project-repo3) 🔄(Update in progress)
 - [사람 인식 기반 버스 승 하차 카운트 시스템 구축 프로젝트](https://github.com/yourusername/project-repo4) 🔄(Update in progress)
 - [부동산 빅데이터 분석을 통한 동향 파악 웹사이트 구축 프로젝트](https://github.com/yourusername/project-repo5) 🔄(Update in progress)
