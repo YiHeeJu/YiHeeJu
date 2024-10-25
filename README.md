@@ -22,7 +22,6 @@
 
 ## 💻&nbsp;&nbsp;Project
 - [Multilink Page Development](https://github.com/YiHeeJu/My_Linktree) : Develop a multi-link page that can easily distribute multiple important links of individuals in one place using GitHub Pages.
-- [Based on LLM SYSTEM](https://github.com/yourusername/project-repo6) : Building a Service System Based on LLM.  ⏳(Project in progress)
 <br />
 
 ## 📕&nbsp;&nbsp;Work Experience & Projects 
