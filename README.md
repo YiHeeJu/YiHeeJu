@@ -7,7 +7,7 @@
 
 
 #  이희주(Yi, Hee-Ju) AI Engineer
-<p>Welcome to my page! </br> I'm heeju, artificial intelligence developer from Korean. (But I'm a student now. lol) </br> I'm ENFJ! I really love people, but I'm very shy. 🎼 </br> I’m eager to learn and grow by exploring various fields through diverse experiences. </br> I genuinely enjoy trying new things because I find joy and fulfillment in seeing my own progress. </br> It makes me even happier when I can use what I've learned to help others!</p>
+<p>Welcome to my page! </br> I'm heeju, artificial intelligence developer from Korean. (But I'm a student now. lol) </br> I'm ENFJ! I really love people, but I'm very shy. (However, I say what needs to be said—positively.😁) 🎼 </br> I’m eager to learn and grow by exploring various fields through diverse experiences. </br> I genuinely enjoy trying new things because I find joy and fulfillment in seeing my own progress. </br> It makes me even happier when I can use what I've learned to help others!</p>
 
 <br />
 
