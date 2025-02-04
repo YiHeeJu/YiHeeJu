@@ -31,6 +31,17 @@ This is a link to the campus projects on CV! ➡️ [CV to refer to ...](https:/
 <!--END -->
 
 <br />
+<br />
+<br />
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YiHeeJu&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+<br />
+<br />
 
 ### Connect with me:
 <a href="mailto:yiheeju0330@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail" style="width:30px;height:30px;margin-right:10px;"></a>
@@ -38,3 +49,4 @@ This is a link to the campus projects on CV! ➡️ [CV to refer to ...](https:/
 <a href="https://yiheeju.tistory.com/" target="_blank"><img src="https://cdn.simpleicons.org/tistory/ffffff" alt="Tistory" style="width:30px;height:30px;margin-right:10px;"></a>
 <a href="https://www.instagram.com/luna_luz._/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" style="width:30px;height:30px;margin-right:10px;"></a>
 <a href="https://topaz-metacarpal-e99.notion.site/AI-Dev-Portfolio-cacf3706017646d2b39e3147058b729a?pvs=4" target="_blank"><img src="https://cdn.simpleicons.org/notion/ffffff" alt="Notion" style="width:30px;height:30px;"></a>
+
