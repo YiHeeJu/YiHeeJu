@@ -18,7 +18,7 @@ uses: yoshi389111/github-profile-3d-contrib@latest
       GITHUB_TOKEN: ${{ secrets.TOKEN }}
       USERNAME: ${{ github.repository_owner }}
 name: Commit & Push
-  run: |
+  run:
     git config user.name YiHeeJu
     git config user.email lehejo0330@cu.ac.kr
     git remote set-url origin https://github.com/YiHeeJu/YiHeeJu.git
