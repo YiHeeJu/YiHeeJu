@@ -19,9 +19,9 @@ uses: yoshi389111/github-profile-3d-contrib@latest
       USERNAME: ${{ github.repository_owner }}
 name: Commit & Push
   run: |
-    git config user.name github-actions
-    git config user.email github-actions@github.com
+    git config user.name YiHeeJu
+    git config user.email lehejo0330@cu.ac.kr
+    git remote set -url origin https://github.com/YiHeeJu/YiHeeJu.git
     git add -A .
-    if git commit -m "generated"; then
-      git push
-    fi
+    if git commit -m "generated"
+      git push https://$GITHUB_TOKEN@github.com/YiHeeJu/YiHeeJu.git
