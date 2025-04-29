@@ -49,6 +49,9 @@
 
 #### 📊 GitHub Stats
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YiHeeJu&show_icons=true&theme=radical" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiHeeJu&layout=compact&theme=tokyonight" height="180px"/>
