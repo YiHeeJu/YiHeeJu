@@ -21,7 +21,7 @@ name: Commit & Push
   run: |
     git config user.name YiHeeJu
     git config user.email lehejo0330@cu.ac.kr
-    git remote set -url origin https://github.com/YiHeeJu/YiHeeJu.git
+    git remote set-url origin https://github.com/YiHeeJu/YiHeeJu.git
     git add -A .
     if git commit -m "generated"
-      git push https://$GITHUB_TOKEN@github.com/YiHeeJu/YiHeeJu.git
+    git push https://github.com/YiHeeJu/YiHeeJu.git
